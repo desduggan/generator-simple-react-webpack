@@ -1,4 +1,4 @@
-# generator-rvdf-block [![NPM version][npm-image]][npm-url]
+# generator-rvdf-block [![NPM version][npm-image]][https://www.npmjs.com/package/generator-simple-react-webpack]
 > Scaffold a RVDF Block using Yoeman.
 
 ## Installation
