@@ -1,5 +1,5 @@
-# generator-rvdf-block 
-> Scaffold a RVDF Block using Yoeman.
+# generator-simple-react-webpack
+> Scaffold a simple react app with webpack configured
 
 [npm](https://www.npmjs.com/package/generator-simple-react-webpack)
 
@@ -15,7 +15,9 @@ npm install -g generator-simple-react-webpack
 Then generate your new project:
 
 ```bash
-yo rvdf-block
+yo simple-react-webpack
+# then 
+npm install
 ```
 
 ## Getting To Know Yeoman
@@ -28,11 +30,3 @@ yo rvdf-block
 ## License
 
 BSD-3-Clause © [Desmond R Duggan ](www.desmondrduggan.com)
-
-
-[npm-image]: https://badge.fury.io/js/generator-rvdf-block.svg
-[npm-url]: https://npmjs.org/package/generator-rvdf-block
-[travis-image]: https://travis-ci.org//generator-rvdf-block.svg?branch=master
-[travis-url]: https://travis-ci.org//generator-rvdf-block
-[daviddm-image]: https://david-dm.org//generator-rvdf-block.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org//generator-rvdf-block
